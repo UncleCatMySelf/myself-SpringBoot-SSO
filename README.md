@@ -22,6 +22,11 @@
     http://localhost:8081/sso1/user/login 应用1登录方式
     http://localhost:8082/sso2/user/login 应用2登录方式
 
+## 效果展示
+
+![Image text](https://raw.githubusercontent.com/UncleCatMySelf/img-myself/master/img/sso/1.png)
+![Image text](https://raw.githubusercontent.com/UncleCatMySelf/img-myself/master/img/sso/2.png)
+![Image text](https://raw.githubusercontent.com/UncleCatMySelf/img-myself/master/img/sso/3.png)
 
 ## 下载地址
 
